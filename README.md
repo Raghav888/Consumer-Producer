@@ -7,7 +7,7 @@ Consumer: https://hub.docker.com/repository/docker/3006199908/server
 Producer: https://hub.docker.com/repository/docker/3006199908/client
 
 
-Commands to run the docker container - Linux Termial
+Commands to run the docker container - Linux Terminal
 
 sudo docker network create client_server_network
 
